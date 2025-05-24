@@ -59,4 +59,3 @@ Use este script por sua conta e risco. Faça backup dos seus dados antes de exec
 ---
 
 Desenvolvido por Pablo Lima  
-Contato: limapablo@gmail.com
